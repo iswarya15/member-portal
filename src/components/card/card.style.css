@@ -1,0 +1,13 @@
+.card {
+    border: 1px solid white;
+    border-radius: 8px;
+    background: blueviolet;
+    font-size: 15px;
+    padding: 30px;
+    cursor: pointer;
+}
+
+.card:hover {
+    background-color: rgb(180, 139, 215);
+    color: black;
+}
